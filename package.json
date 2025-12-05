@@ -2,7 +2,6 @@
   "name": "algorithms-exercises",
   "version": "1.0.0",
   "description": "The exercises for the Complete Intro to Algorithms",
-  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "test": "jest",
@@ -10,7 +9,7 @@
   },
   "dependencies": {
     "lodash": "4.17.21",
-    "parcel": "2.0.0-beta.2",
+    "parcel": "2.16.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-router-dom": "5.2.0",
